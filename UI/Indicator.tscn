@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://bvluxpuwhii2n"]
 
-[ext_resource type="Texture2D" uid="uid://ddaeo3y5kyk24" path="res://Assets/ballGrey.png" id="1"]
-[ext_resource type="Texture2D" uid="uid://7yetskv8qk1v" path="res://Assets/ballBlue.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://42i7anb70fsk" path="res://Assets/ballGrey.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://bsonixmxx4byi" path="res://Assets/ballBlue.png" id="2"]
 
 [node name="Indicator" type="Node2D"]
 
